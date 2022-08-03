@@ -52,4 +52,9 @@ section {
 	justify-content: flex-end;
 	position: sticky;
 	top: 0;
+	color: #fff;
+	background-color: #0a0a23;
+	z-index: 999;
+	margin: 0 -2px;
+	padding: 0.5rem calc(1.25rem + 2px) .5rem 0;
 }
