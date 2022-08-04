@@ -109,3 +109,8 @@ tr[class="total"] th {
 	text-align: left;
 	padding: .5rem 0 .25rem .5rem;
 }
+
+tr.total td {
+	text-align: right;
+	padding: 0 .25rem;
+}
